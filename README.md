@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Bhavya%20Keniya&fontSize=64&fontColor=4EA8DE&animation=fadeIn&fontAlignY=35&desc=Platform%20%26%20Infrastructure%20Engineering%20%C2%B7%20Berlin%2C%20Germany%20%F0%9F%87%A9%F0%9F%87%AA&descSize=18&descAlignY=58&descAlign=50" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Bhavya%20Keniya&fontSize=64&fontColor=4EA8DE&animation=fadeIn&fontAlignY=35&desc=Platform%20%26amp%3B%20Infrastructure%20Engineering%20%C2%B7%20Berlin%2C%20Germany&descSize=18&descAlignY=58&descAlign=50" width="100%" alt="banner"/>
 
 <div align="center">
 
