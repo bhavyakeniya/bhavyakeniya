@@ -2,7 +2,7 @@
 
 # Hey, I'm Bhavya 👋
 
-**Staff Engineer · Platform & Infrastructure** · Berlin, Germany 🇩🇪
+**Platform & Infrastructure Engineering** · Berlin, Germany 🇩🇪
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavya-keniya-8a923395/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhavyakeniya)
@@ -15,14 +15,24 @@
 
 ### 🧑‍💻 About Me
 
-I design and run the foundations other engineers build on — **Kubernetes** clusters that stay boring, **Terraform**-managed infrastructure where nothing is click-ops, **CI/CD pipelines** that ship on green, and **observability** that catches problems before customers do.
+I own the platform other engineers build on — the **Kubernetes** clusters, the **Terraform**-managed cloud estate, the **CI/CD** pipelines, and the **observability** stack that keeps it all honest. My job is making the right way the easy way: when a product team ships without thinking about infrastructure, that's the platform working.
 
 ```text
 📍 Based in        Berlin, Germany
-💼 Currently at    Resourcify GmbH — Staff Engineer
-⚡ Focus            Platform Engineering · Kubernetes · Terraform · GCP · CI/CD · Observability
+💼 Currently at    Resourcify GmbH — platform, infrastructure & developer experience
+⚡ Day to day      Kubernetes on GCP · Terraform · CI/CD · Airflow · Prometheus/Grafana
 🔭 Building        A CLI tool for a real ops pain point — landing here soon
 ```
+
+---
+
+### 🧭 How I Work
+
+- **Architecture is a bet on the future** — I write down the tradeoffs, pick the boring option unless the numbers say otherwise, and revisit when the numbers change.
+- **Paved roads over gatekeeping** — golden paths, sensible defaults, and self-service beat a ticket queue and a human bottleneck every time.
+- **Reliability is designed, not firefought** — SLOs that reflect users, alerts that are actionable at 3 AM, runbooks written for a tired brain, and postmortems without blame.
+- **The cloud bill is an engineering metric** — cost per workload is a design input, not a quarterly surprise from finance.
+- **If it isn't automated, it isn't done** — anything clicked together in a console is an outage waiting for the one person who remembers how.
 
 ---
 
@@ -61,14 +71,6 @@ I design and run the foundations other engineers build on — **Kubernetes** clu
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
----
-
-### 💼 Experience
-
-| Period      | Role           | Company                 | Focus                                                                                        |
-| ----------- | -------------- | ----------------------- | -------------------------------------------------------------------------------------------- |
-| **Current** | Staff Engineer | **Resourcify GmbH** 🇩🇪 | Digital recycling platform · Kubernetes on GCP · Terraform · CI/CD · Airflow · Observability |
 
 ---
 
