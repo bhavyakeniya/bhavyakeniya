@@ -11,7 +11,7 @@
 
 ## 🧑‍💻 About Me
 
-I own the platform other engineers build on — a decade of building and running infrastructure that other engineers depend on: from being the **first DevOps hire** at a startup and building production from scratch, to **observability at a 200M-user streaming platform**, to **reliability engineering in fintech**. Not attached to any particular tool: I pick what's boring, automate it, and make the right way the easy way.
+A decade of building and running infrastructure that other engineers depend on — from being the **first DevOps hire** at a startup and building production from scratch, to **observability at a 200M-user streaming platform**, to **reliability engineering in fintech**. Not attached to any particular tool: I pick what's boring, automate it, and make the right way the easy way.
 
 ```text
 📍 Based in        Berlin, Germany
