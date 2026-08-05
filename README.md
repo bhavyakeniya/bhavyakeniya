@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavya-keniya-8a923395/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhavyakeniya)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3200&pause=2000&color=4EA8DE&center=true&vCenter=true&repeat=true&width=720&height=40&lines=Building+Platforms+Engineers+Love+to+Build+On+%F0%9F%9A%80;Kubernetes+%7C+Terraform+%7C+Observability+%7C+CI%2FCD+%E2%9A%99%EF%B8%8F;If+It's+Not+Automated%2C+It's+Not+Done+%F0%9F%94%81" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3200&pause=2000&color=4EA8DE&center=true&vCenter=true&repeat=true&width=720&height=40&lines=Building+Platforms+Engineers+Love+to+Build+On+%F0%9F%9A%80;Kubernetes+%7C+Terraform+%7C+Observability+%7C+CI%2FCD+%E2%9A%99%EF%B8%8F;Make+It+Work%2C+Make+It+Right%2C+Make+It+Fast+%E2%9A%A1" />
 
 </div>
 
