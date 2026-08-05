@@ -79,8 +79,8 @@ A decade of building and running infrastructure that other engineers depend on �
 
 | When | Where | What |
 | :--- | :--- | :--- |
-| **Now** | **Resourcify** 🇩🇪 | Platform & infrastructure for a recycling-tech SaaS — Kubernetes on GCP, Terraform, CI/CD, observability |
-| **2022+** | **Qonto** 🇩🇪 | Site reliability for a fintech — observability at scale, Thanos, SLOs, DORA metrics |
+| **2024–now** | **Resourcify** 🇩🇪 | Platform & infrastructure for a recycling-tech SaaS — Kubernetes on GCP, Terraform, CI/CD, observability |
+| **2022–24** | **Qonto** 🇩🇪 | Site reliability for a fintech — observability at scale, Thanos, SLOs, DORA metrics |
 | **2020–22** | **Gaana** 🇮🇳 | India's largest music streaming (200M users) — observability overhaul, on-prem Kubernetes |
 | **2017–20** | **Bizongo** 🇮🇳 | First DevOps hire — built prod from zero, microservices migration, zero-downtime deploys |
 | **2014–16** | **Capgemini** 🇮🇳 | Release engineering for McDonald's global e-commerce — Chef, deployment automation |
