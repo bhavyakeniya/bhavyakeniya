@@ -26,17 +26,6 @@ A decade of building and running infrastructure that other engineers depend on �
 
 ---
 
-### 🏆 Things I've Built & Run
-
-- **Scaled Thanos for a fintech** (Qonto) with query-frontend, caching, and component sharding — faster queries, fewer failures, at bank-grade reliability expectations
-- **Drove an SLO/SLI framework** connecting service performance to business impact, helping teams balance feature velocity against reliability
-- **Migrated a 200M-user platform's observability** (Gaana) to Prometheus–Grafana–Thanos and retired Zabbix — troubleshooting time down to under 5 minutes
-- **Led an on-prem Kubernetes rollout** end to end — kubespray, Helm, Istio, Calico — cutting resource costs while gaining scalability
-- **Built a company's entire infrastructure as employee #1 in DevOps** (Bizongo) — monolith to microservices, blue-green zero-downtime deploys, one-click deployments with 100% team adoption
-- **Treated the cloud bill as an engineering metric** — rightsizing, reserved capacity, lifecycle policies, and auto-shutdown of idle resources
-
----
-
 ### 🛠️ Tech Stack
 
 **Cloud & Infrastructure**
