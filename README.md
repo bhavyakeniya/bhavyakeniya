@@ -17,7 +17,8 @@ A decade of building and running infrastructure that other engineers depend on �
 📍 Based in        Berlin, Germany
 💼 Currently at    Resourcify GmbH — platform, infrastructure & developer experience
 ⚡ Day to day      Kubernetes · Terraform · GCP/AWS · CI/CD · Prometheus/Grafana/Thanos
-🔭 Building        A CLI tool for a real ops pain point — landing here soon
+🔭 Building        bumpguard — upgrade preflight for your observability stack
+                   github.com/bhavyakeniya/bumpguard
 ```
 
 ## 🛠️ Tech Stack
